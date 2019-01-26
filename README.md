@@ -6,4 +6,7 @@ Unfortunately, I did not have time to complete this task perfectly due to the sy
 
 In addition, I accidently uploaded to a private repository and found this mistake after a while, which also made a lateness.
 
-Thanks for your watching and I look forward your advice for a better solution.
+Thanks for your watching and I look forward to your advice for a better solution.
+
+
+P.S. I am interested in data team since I am currently enrolled in a master program of data informatics. Though I do not have background of this area during my bachelor degree, I am actively learning about it this year and seeking for an opportunity to have experience on this area.
